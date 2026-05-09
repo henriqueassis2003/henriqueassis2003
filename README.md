@@ -22,7 +22,7 @@
 ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📊: Top Langs
 
 
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=henriqueassis2003&layout=donut&locale=pt-br&theme=transparent)](https://github.com/Pranesh-2005/github-readme-stats)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=henriqueassis2003&layout=donut&locale=pt-br&theme=transparent&hide_title=true&card_width=500)](https://github.com/Pranesh-2005/github-readme-stats)
 
 
 <!--
